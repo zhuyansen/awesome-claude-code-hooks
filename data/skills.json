@@ -527,7 +527,7 @@
   {
    "repo_full_name": "VoltAgent/awesome-claude-code-subagents",
    "path": null,
-   "stars": 25506,
+   "stars": 25509,
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "kind": "subagents",
    "security_grade": "safe",
@@ -687,7 +687,7 @@
   {
    "repo_full_name": "jarrodwatts/claude-hud",
    "path": null,
-   "stars": 28304,
+   "stars": 28307,
    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
    "kind": "statusline",
    "security_grade": "safe",
@@ -697,7 +697,7 @@
   {
    "repo_full_name": "sirmalloc/ccstatusline",
    "path": null,
-   "stars": 13185,
+   "stars": 13187,
    "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -747,7 +747,7 @@
   {
    "repo_full_name": "daniel3303/ClaudeCodeStatusLine",
    "path": null,
-   "stars": 612,
+   "stars": 613,
    "description": "Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time",
    "kind": "statusline",
    "security_grade": "safe",
@@ -825,16 +825,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Astro-Han/claude-lens",
-   "path": null,
-   "stars": 234,
-   "description": "Claude Code statusline and rate limit tracker with pace-aware quota monitoring. Pure Bash + jq, single file.",
-   "kind": "statusline",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Astro-Han/claude-pace",
    "path": null,
    "stars": 234,
@@ -851,26 +841,6 @@
    "description": "A beautiful, information-dense status line for Claude Code — gradient progress bar, smart hiding, git status, cost tracking, and more.",
    "kind": "statusline",
    "security_grade": "unknown",
-   "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "AwesomeJun/CC-statusline",
-   "path": null,
-   "stars": 192,
-   "description": "An aesthetic statusline for Claude Code by awesomejun",
-   "kind": "statusline",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "AwesomeJun/awesome-claude-plugins",
-   "path": null,
-   "stars": 192,
-   "description": "An aesthetic statusline for Claude Code by awesomejun",
-   "kind": "statusline",
-   "security_grade": "safe",
    "language": "Shell",
    "license": "MIT"
   },
@@ -1415,6 +1385,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "livlign/ccbit",
+   "path": null,
+   "stars": 9,
+   "description": "Session-awareness status line for Claude Code. A kaomoji face reads the transcript and narrates state across your sessions. One Go binary, no hooks, no daemons.",
+   "kind": "statusline",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "moon1ite/claude-statusline",
    "path": null,
    "stars": 9,
@@ -1452,16 +1432,6 @@
    "kind": "statusline",
    "security_grade": "unknown",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "livlign/ccbit",
-   "path": null,
-   "stars": 8,
-   "description": "Session-awareness status line for Claude Code. A kaomoji face reads the transcript and narrates state across your sessions. One Go binary, no hooks, no daemons.",
-   "kind": "statusline",
-   "security_grade": "unknown",
-   "language": "Go",
    "license": "MIT"
   },
   {
@@ -1717,7 +1687,7 @@
   {
    "repo_full_name": "WorldFlowAI/everything-claude-code",
    "path": null,
-   "stars": 4062,
+   "stars": 4088,
    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
    "kind": "collection",
    "security_grade": "safe",
@@ -1805,16 +1775,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "sd0xdev/sd0x-dev-flow",
-   "path": null,
-   "stars": 191,
-   "description": "The harness layer for Claude Code — a reference implementation of harness engineering with hook-enforced dual review, state-machine gates that survive context compaction, and fail-closed safety where it counts. Quality gates that AI can't skip.",
-   "kind": "collection",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "sd0xdev/sd0x-harness",
    "path": null,
    "stars": 191,
@@ -1887,27 +1847,7 @@
   {
    "repo_full_name": "solanabr/ai-kit",
    "path": null,
-   "stars": 107,
-   "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.",
-   "kind": "collection",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "solanabr/solana-ai-kit",
-   "path": null,
-   "stars": 107,
-   "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.",
-   "kind": "collection",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "solanabr/solana-claude",
-   "path": null,
-   "stars": 107,
+   "stars": 108,
    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1997,7 +1937,7 @@
   {
    "repo_full_name": "nilbuild/claude-statusline",
    "path": null,
-   "stars": 1399,
+   "stars": 1398,
    "description": "Minimal Claude Code statusline setup I personally use",
    "kind": "tooling",
    "security_grade": "unknown",
@@ -2107,7 +2047,7 @@
   {
    "repo_full_name": "qkal/Canny",
    "path": null,
-   "stars": 112,
+   "stars": 114,
    "description": "Stops AI coding agents from claiming work is done without evidence. Deterministic hooks decide, TypeSafe's Jev advises. Append-only ledger, zero runtime dependencies.",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2473,6 +2413,16 @@
    "security_grade": "unknown",
    "language": "Shell",
    "license": null
+  },
+  {
+   "repo_full_name": "Moviw/codex-statusline",
+   "path": null,
+   "stars": 6,
+   "description": "Status bar for Codex CLI and Claude Code: context, 5h/weekly quota with reset times, tokens.",
+   "kind": "tooling",
+   "security_grade": "caution",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "jiunbae/aily",

@@ -1,1 +1,12 @@
-{}
+{
+ "Moviw/codex-statusline": {
+  "repo": "Moviw/codex-statusline",
+  "url": "https://raw.githubusercontent.com/Moviw/codex-statusline/HEAD/docs/demo.gif",
+  "alt": "codex-statusline demo",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 1339460,
+  "file": "Moviw__codex-statusline.gif",
+  "still": "Moviw__codex-statusline.jpg"
+ }
+}

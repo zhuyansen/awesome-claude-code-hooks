@@ -6,3 +6,4 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `Moviw__codex-statusline.gif` | [Moviw/codex-statusline](https://github.com/Moviw/codex-statusline) | MIT | [source](https://raw.githubusercontent.com/Moviw/codex-statusline/HEAD/docs/demo.gif) |
