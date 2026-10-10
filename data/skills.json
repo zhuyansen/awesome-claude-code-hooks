@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09",
+ "generated": "2026-10-10",
  "source": "https://agentskillshub.top/best/claude-code-hooks/",
  "kinds": [
   {
@@ -37,7 +37,7 @@
   {
    "repo_full_name": "disler/claude-code-hooks-mastery",
    "path": null,
-   "stars": 3933,
+   "stars": 3935,
    "description": "Master Claude Code Hooks",
    "kind": "hooks",
    "security_grade": "safe",
@@ -47,7 +47,7 @@
   {
    "repo_full_name": "severity1/claude-code-prompt-improver",
    "path": null,
-   "stars": 1943,
+   "stars": 1944,
    "description": "Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.",
    "kind": "hooks",
    "security_grade": "safe",
@@ -67,7 +67,7 @@
   {
    "repo_full_name": "karanb192/claude-code-hooks",
    "path": null,
-   "stars": 533,
+   "stars": 535,
    "description": "🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.",
    "kind": "hooks",
    "security_grade": "safe",
@@ -107,7 +107,7 @@
   {
    "repo_full_name": "alexfazio/plankton",
    "path": null,
-   "stars": 371,
+   "stars": 370,
    "description": "Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations",
    "kind": "hooks",
    "security_grade": "safe",
@@ -177,7 +177,7 @@
   {
    "repo_full_name": "cso1z/claude-ip-guard",
    "path": null,
-   "stars": 203,
+   "stars": 205,
    "description": "A Claude Code hook plugin for IP-based access control · 防 Claude 封号 · Claude IP 检测 · IP 地理位置拦截 · Claude 账号保护",
    "kind": "hooks",
    "security_grade": "safe",
@@ -237,7 +237,7 @@
   {
    "repo_full_name": "tzachbon/claude-model-router-hook",
    "path": null,
-   "stars": 100,
+   "stars": 101,
    "description": "Claude Code hooks that auto-switch model tier based on task complexity",
    "kind": "hooks",
    "security_grade": "safe",
@@ -407,7 +407,7 @@
   {
    "repo_full_name": "yeisonrestrepo/code-conductor",
    "path": null,
-   "stars": 15,
+   "stars": 16,
    "description": "A governance layer for Claude Code sessions: hooks that check an agent's commands before they run, a spec-first workflow, and project memory the next session reads.",
    "kind": "hooks",
    "security_grade": "safe",
@@ -527,7 +527,7 @@
   {
    "repo_full_name": "VoltAgent/awesome-claude-code-subagents",
    "path": null,
-   "stars": 25605,
+   "stars": 25619,
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "kind": "subagents",
    "security_grade": "safe",
@@ -687,7 +687,7 @@
   {
    "repo_full_name": "jarrodwatts/claude-hud",
    "path": null,
-   "stars": 28421,
+   "stars": 28434,
    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
    "kind": "statusline",
    "security_grade": "safe",
@@ -697,7 +697,7 @@
   {
    "repo_full_name": "sirmalloc/ccstatusline",
    "path": null,
-   "stars": 13236,
+   "stars": 13239,
    "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -737,7 +737,7 @@
   {
    "repo_full_name": "chongdashu/cc-statusline",
    "path": null,
-   "stars": 642,
+   "stars": 643,
    "description": "Transform your Claude Code experience with a beautiful, informative statusline",
    "kind": "statusline",
    "security_grade": "safe",
@@ -757,7 +757,7 @@
   {
    "repo_full_name": "uppinote20/claude-dashboard",
    "path": null,
-   "stars": 579,
+   "stars": 580,
    "description": "Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking",
    "kind": "statusline",
    "security_grade": "safe",
@@ -787,7 +787,7 @@
   {
    "repo_full_name": "stephenleo/cship",
    "path": null,
-   "stars": 425,
+   "stars": 427,
    "description": "⚡ A beautiful, fully customizable statusline for Claude Code - Starship-style TOML config, themeable colours, Nerd Font glyphs, and tunable cost/context/usage thresholds.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -1205,6 +1205,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "FahimFBA/claudecode-statusline",
+   "path": null,
+   "stars": 17,
+   "description": "Nice and useful statusline for Claude Code",
+   "kind": "statusline",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "blushdas/claude-code-statusline",
    "path": null,
    "stars": 17,
@@ -1215,19 +1225,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "FahimFBA/claudecode-statusline",
-   "path": null,
-   "stars": 16,
-   "description": "Nice and useful statusline for Claude Code",
-   "kind": "statusline",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "dsebastien/claude-epic-status-line",
    "path": null,
-   "stars": 16,
+   "stars": 17,
    "description": "A feature-rich status line for Claude Code with colors, rate limits, git info, session cost, worktree detection, and auto-compact warnings",
    "kind": "statusline",
    "security_grade": "safe",
@@ -1677,7 +1677,7 @@
   {
    "repo_full_name": "diet103/claude-code-infrastructure-showcase",
    "path": null,
-   "stars": 10032,
+   "stars": 10030,
    "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
    "kind": "collection",
    "security_grade": "safe",
@@ -1687,7 +1687,7 @@
   {
    "repo_full_name": "WorldFlowAI/everything-claude-code",
    "path": null,
-   "stars": 4348,
+   "stars": 4403,
    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
    "kind": "collection",
    "security_grade": "safe",
@@ -1707,7 +1707,7 @@
   {
    "repo_full_name": "0xSteph/pentest-ai-agents",
    "path": null,
-   "stars": 2319,
+   "stars": 2321,
    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1717,7 +1717,7 @@
   {
    "repo_full_name": "0xfurai/claude-code-subagents",
    "path": null,
-   "stars": 1013,
+   "stars": 1014,
    "description": "A comprehensive collection of 100+ production-ready development subagents for Claude Code",
    "kind": "collection",
    "security_grade": "safe",
@@ -1737,7 +1737,7 @@
   {
    "repo_full_name": "ruvnet/agentic-flow",
    "path": null,
-   "stars": 819,
+   "stars": 818,
    "description": "Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1757,7 +1757,7 @@
   {
    "repo_full_name": "vanzan01/claude-code-sub-agent-collective",
    "path": null,
-   "stars": 521,
+   "stars": 520,
    "description": "  🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude   Code.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1767,7 +1767,7 @@
   {
    "repo_full_name": "NYCU-Chung/my-claude-devteam",
    "path": null,
-   "stars": 269,
+   "stars": 270,
    "description": "An engineering team in a box for Claude Code — 12 specialized agents, 15 automation hooks, and the P7/P9/P10 methodology.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1847,7 +1847,7 @@
   {
    "repo_full_name": "solanabr/ai-kit",
    "path": null,
-   "stars": 108,
+   "stars": 109,
    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1857,7 +1857,7 @@
   {
    "repo_full_name": "rshah515/claude-code-subagents",
    "path": null,
-   "stars": 100,
+   "stars": 101,
    "description": "Comprehensive collection of 133+ specialized AI subagents for Claude Code covering the entire software development lifecycle",
    "kind": "collection",
    "security_grade": "safe",
@@ -1947,7 +1947,7 @@
   {
    "repo_full_name": "tintinweb/pi-subagents",
    "path": null,
-   "stars": 1274,
+   "stars": 1278,
    "description": "Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...",
    "kind": "tooling",
    "security_grade": "safe",
@@ -1967,7 +1967,7 @@
   {
    "repo_full_name": "Ido-Levi/claude-code-tamagotchi",
    "path": null,
-   "stars": 433,
+   "stars": 434,
    "description": "Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet.",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2225,6 +2225,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Moviw/codex-statusline",
+   "path": null,
+   "stars": 15,
+   "description": "Status bar for Codex CLI and Claude Code: context, 5h/weekly quota with reset times, tokens.",
+   "kind": "tooling",
+   "security_grade": "caution",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "artischocki/agent-usage-tmux",
    "path": null,
    "stars": 14,
@@ -2252,16 +2262,6 @@
    "kind": "tooling",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "Moviw/codex-statusline",
-   "path": null,
-   "stars": 12,
-   "description": "Status bar for Codex CLI and Claude Code: context, 5h/weekly quota with reset times, tokens.",
-   "kind": "tooling",
-   "security_grade": "caution",
-   "language": "Python",
    "license": "MIT"
   },
   {
