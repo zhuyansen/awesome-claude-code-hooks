@@ -6,4 +6,5 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `awesomezun__claude-statusline.gif` | [awesomezun/claude-statusline](https://github.com/awesomezun/claude-statusline) | MIT | [source](https://raw.githubusercontent.com/awesomezun/claude-statusline/HEAD/assets/reel.gif) |
 | `Moviw__codex-statusline.gif` | [Moviw/codex-statusline](https://github.com/Moviw/codex-statusline) | MIT | [source](https://raw.githubusercontent.com/Moviw/codex-statusline/HEAD/docs/demo.gif) |

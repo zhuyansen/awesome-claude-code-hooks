@@ -8,5 +8,15 @@
   "bytes": 1339460,
   "file": "Moviw__codex-statusline.gif",
   "still": "Moviw__codex-statusline.jpg"
+ },
+ "awesomezun/claude-statusline": {
+  "repo": "awesomezun/claude-statusline",
+  "url": "https://raw.githubusercontent.com/awesomezun/claude-statusline/HEAD/assets/reel.gif",
+  "alt": "Awesome Statusline — 30-second motion reel",
+  "score": 2.9,
+  "type": "image/gif",
+  "bytes": 10003705,
+  "file": "awesomezun__claude-statusline.gif",
+  "still": "awesomezun__claude-statusline.jpg"
  }
 }
