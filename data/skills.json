@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23",
+ "generated": "2026-10-24",
  "source": "https://agentskillshub.top/best/claude-code-hooks/",
  "kinds": [
   {
@@ -37,7 +37,7 @@
   {
    "repo_full_name": "disler/claude-code-hooks-mastery",
    "path": null,
-   "stars": 3946,
+   "stars": 3945,
    "description": "Master Claude Code Hooks",
    "kind": "hooks",
    "security_grade": "safe",
@@ -57,7 +57,7 @@
   {
    "repo_full_name": "shanraisshan/claude-code-hooks",
    "path": null,
-   "stars": 561,
+   "stars": 563,
    "description": "claude code hooks - adding voice on each hook",
    "kind": "hooks",
    "security_grade": "safe",
@@ -147,7 +147,7 @@
   {
    "repo_full_name": "lasso-security/claude-hooks",
    "path": null,
-   "stars": 268,
+   "stars": 269,
    "description": "Lasso security integrations for Claude Code, including prompt-injection defenses",
    "kind": "hooks",
    "security_grade": "caution",
@@ -167,7 +167,7 @@
   {
    "repo_full_name": "BotchetDig/workout-gate",
    "path": null,
-   "stars": 221,
+   "stars": 220,
    "description": "A Claude Code hook that blocks your prompt until you do your push-ups, counted live via webcam. Random reps, session-persistent debt (no closing the tab to skip), streak stats, and three trigger modes. Your AI works hard, so should you.",
    "kind": "hooks",
    "security_grade": "safe",
@@ -177,7 +177,7 @@
   {
    "repo_full_name": "cso1z/claude-ip-guard",
    "path": null,
-   "stars": 215,
+   "stars": 216,
    "description": "A Claude Code hook plugin for IP-based access control · 防 Claude 封号 · Claude IP 检测 · IP 地理位置拦截 · Claude 账号保护",
    "kind": "hooks",
    "security_grade": "safe",
@@ -535,9 +535,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "MaxHarfen/crab-band",
+   "path": null,
+   "stars": 4,
+   "description": "A Claude Code mod: usage limits in the status line and a band of pixel crabs for the main session and its subagents",
+   "kind": "hooks",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "VoltAgent/awesome-claude-code-subagents",
    "path": null,
-   "stars": 25967,
+   "stars": 25989,
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "kind": "subagents",
    "security_grade": "safe",
@@ -547,7 +557,7 @@
   {
    "repo_full_name": "lst97/claude-code-sub-agents",
    "path": null,
-   "stars": 1699,
+   "stars": 1701,
    "description": "Collection of specialized AI subagents for Claude Code for personal use (full-stack development).",
    "kind": "subagents",
    "security_grade": "safe",
@@ -697,7 +707,7 @@
   {
    "repo_full_name": "jarrodwatts/claude-hud",
    "path": null,
-   "stars": 28806,
+   "stars": 28838,
    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
    "kind": "statusline",
    "security_grade": "safe",
@@ -707,7 +717,7 @@
   {
    "repo_full_name": "sirmalloc/ccstatusline",
    "path": null,
-   "stars": 13380,
+   "stars": 13386,
    "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -717,7 +727,7 @@
   {
    "repo_full_name": "Haleclipse/CCometixLine",
    "path": null,
-   "stars": 3474,
+   "stars": 3476,
    "description": "Claude Code statusline tool written in Rust",
    "kind": "statusline",
    "security_grade": "safe",
@@ -737,7 +747,7 @@
   {
    "repo_full_name": "GaoSSR/best-claude-hud",
    "path": null,
-   "stars": 997,
+   "stars": 998,
    "description": "Minimal Claude Code statusline HUD powered by Rust.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -767,7 +777,7 @@
   {
    "repo_full_name": "uppinote20/claude-dashboard",
    "path": null,
-   "stars": 582,
+   "stars": 583,
    "description": "Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking",
    "kind": "statusline",
    "security_grade": "safe",
@@ -827,7 +837,7 @@
   {
    "repo_full_name": "Astro-Han/claude-pace",
    "path": null,
-   "stars": 240,
+   "stars": 241,
    "description": "Claude Code statusline and rate limit tracker with pace-aware quota monitoring. Pure Bash + jq, single file.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -847,7 +857,7 @@
   {
    "repo_full_name": "awesomezun/claude-statusline",
    "path": null,
-   "stars": 199,
+   "stars": 201,
    "description": "An aesthetic statusline for Claude Code by awesomezun",
    "kind": "statusline",
    "security_grade": "safe",
@@ -1177,7 +1187,7 @@
   {
    "repo_full_name": "briansmith80/claude-code-status-bar",
    "path": null,
-   "stars": 19,
+   "stars": 20,
    "description": "Configurable status bar for Claude Code: usage limits with pacing markers, context window, git state, live activity, session cost, and 8 colour themes. Pure bash, zero dependencies.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -1697,7 +1707,7 @@
   {
    "repo_full_name": "WorldFlowAI/everything-claude-code",
    "path": null,
-   "stars": 5294,
+   "stars": 5343,
    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
    "kind": "collection",
    "security_grade": "safe",
@@ -1707,7 +1717,7 @@
   {
    "repo_full_name": "parcadei/Continuous-Claude-v3",
    "path": null,
-   "stars": 3945,
+   "stars": 3947,
    "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1717,7 +1727,7 @@
   {
    "repo_full_name": "0xSteph/pentest-ai-agents",
    "path": null,
-   "stars": 2368,
+   "stars": 2371,
    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1737,7 +1747,7 @@
   {
    "repo_full_name": "sangrokjung/claude-forge",
    "path": null,
-   "stars": 862,
+   "stars": 863,
    "description": "oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1747,7 +1757,7 @@
   {
    "repo_full_name": "ruvnet/agentic-flow",
    "path": null,
-   "stars": 827,
+   "stars": 829,
    "description": "Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1807,7 +1817,7 @@
   {
    "repo_full_name": "KimYx0207/Kim_Service",
    "path": null,
-   "stars": 176,
+   "stars": 177,
    "description": "面向 Claude Code、Codex 等 AI 编码助手的 Hook 与 Agent Skill 开源合集。",
    "kind": "collection",
    "security_grade": "safe",
@@ -1947,7 +1957,7 @@
   {
    "repo_full_name": "nilbuild/claude-statusline",
    "path": null,
-   "stars": 1396,
+   "stars": 1395,
    "description": "Minimal Claude Code statusline setup I personally use",
    "kind": "tooling",
    "security_grade": "safe",
@@ -1957,7 +1967,7 @@
   {
    "repo_full_name": "tintinweb/pi-subagents",
    "path": null,
-   "stars": 1352,
+   "stars": 1357,
    "description": "Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...",
    "kind": "tooling",
    "security_grade": "safe",
@@ -1967,7 +1977,7 @@
   {
    "repo_full_name": "blader/taskmaster",
    "path": null,
-   "stars": 533,
+   "stars": 532,
    "description": "Stop hook for Claude Code that keeps the agent working until all plans and user requests are 100% complete",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2027,7 +2037,7 @@
   {
    "repo_full_name": "martinemde/starship-claude",
    "path": null,
-   "stars": 153,
+   "stars": 152,
    "description": "✳ claude statusline via starship",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2047,7 +2057,7 @@
   {
    "repo_full_name": "shintaro-sprech/agent-orchestrator-template",
    "path": null,
-   "stars": 124,
+   "stars": 123,
    "description": "A self-evolving subagent system for Claude Code",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2095,16 +2105,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "shinpr/sub-agents-mcp",
-   "path": null,
-   "stars": 99,
-   "description": "Define task-specific AI sub-agents in Markdown for any MCP-compatible tool.",
-   "kind": "tooling",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "abhisekjha/pith",
    "path": null,
    "stars": 98,
@@ -2112,6 +2112,16 @@
    "kind": "tooling",
    "security_grade": "safe",
    "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "shinpr/sub-agents-mcp",
+   "path": null,
+   "stars": 98,
+   "description": "Define task-specific AI sub-agents in Markdown for any MCP-compatible tool.",
+   "kind": "tooling",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
