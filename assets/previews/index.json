@@ -18,5 +18,15 @@
   "bytes": 10003705,
   "file": "awesomezun__claude-statusline.gif",
   "still": "awesomezun__claude-statusline.jpg"
+ },
+ "rootstudioyaml/sprag": {
+  "repo": "rootstudioyaml/sprag",
+  "url": "https://raw.githubusercontent.com/rootstudioyaml/sprag/main/docs/sprag-compare-en.gif",
+  "alt": "Two terminals receive the same twelve requests. With Sprag, lookups and test run",
+  "score": 2.7,
+  "type": "image/gif",
+  "bytes": 1769642,
+  "file": "rootstudioyaml__sprag.gif",
+  "still": "rootstudioyaml__sprag.jpg"
  }
 }

@@ -8,3 +8,4 @@ authors and stay under the license of the project they come from. To have one re
 |---|---|---|---|
 | `awesomezun__claude-statusline.gif` | [awesomezun/claude-statusline](https://github.com/awesomezun/claude-statusline) | MIT | [source](https://raw.githubusercontent.com/awesomezun/claude-statusline/HEAD/assets/reel.gif) |
 | `Moviw__codex-statusline.gif` | [Moviw/codex-statusline](https://github.com/Moviw/codex-statusline) | MIT | [source](https://raw.githubusercontent.com/Moviw/codex-statusline/HEAD/docs/demo.gif) |
+| `rootstudioyaml__sprag.gif` | [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) | Apache-2.0 | [source](https://raw.githubusercontent.com/rootstudioyaml/sprag/main/docs/sprag-compare-en.gif) |
