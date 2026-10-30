@@ -9,6 +9,16 @@
   "file": "Moviw__codex-statusline.gif",
   "still": "Moviw__codex-statusline.jpg"
  },
+ "aunysillyme/lean-browser-use": {
+  "repo": "aunysillyme/lean-browser-use",
+  "url": "https://raw.githubusercontent.com/aunysillyme/lean-browser-use/HEAD/docs/trailer.gif",
+  "alt": "lean-browser-use: about 25 percent cheaper browser use, two measured runs, why t",
+  "score": 2.75,
+  "type": "image/gif",
+  "bytes": 1534621,
+  "file": "aunysillyme__lean-browser-use.gif",
+  "still": "aunysillyme__lean-browser-use.jpg"
+ },
  "awesomezun/claude-statusline": {
   "repo": "awesomezun/claude-statusline",
   "url": "https://raw.githubusercontent.com/awesomezun/claude-statusline/HEAD/assets/reel.gif",
