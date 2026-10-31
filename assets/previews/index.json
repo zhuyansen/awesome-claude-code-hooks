@@ -1,4 +1,14 @@
 {
+ "Isllanrx/status_cli": {
+  "repo": "Isllanrx/status_cli",
+  "url": "https://raw.githubusercontent.com/Isllanrx/status_cli/HEAD/assets/cli.png",
+  "alt": "status_cli in Codex, Claude Code and the Antigravity CLI",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 1563616,
+  "file": "Isllanrx__status_cli.jpg",
+  "still": "Isllanrx__status_cli.jpg"
+ },
  "Moviw/codex-statusline": {
   "repo": "Moviw/codex-statusline",
   "url": "https://raw.githubusercontent.com/Moviw/codex-statusline/HEAD/docs/demo.gif",
