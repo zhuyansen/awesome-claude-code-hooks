@@ -1,4 +1,14 @@
 {
+ "HamzaAlayed/laravel-claude-agents": {
+  "repo": "HamzaAlayed/laravel-claude-agents",
+  "url": "https://raw.githubusercontent.com/HamzaAlayed/laravel-claude-agents/HEAD/docs/images/console-board-mid-run.png",
+  "alt": "Console board mid-run",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 66630,
+  "file": "HamzaAlayed__laravel-claude-agents.jpg",
+  "still": "HamzaAlayed__laravel-claude-agents.jpg"
+ },
  "Isllanrx/status_cli": {
   "repo": "Isllanrx/status_cli",
   "url": "https://raw.githubusercontent.com/Isllanrx/status_cli/HEAD/assets/cli.png",
@@ -38,6 +48,16 @@
   "bytes": 10003705,
   "file": "awesomezun__claude-statusline.gif",
   "still": "awesomezun__claude-statusline.jpg"
+ },
+ "event4u-app/agent-config": {
+  "repo": "event4u-app/agent-config",
+  "url": "https://raw.githubusercontent.com/event4u-app/agent-config/HEAD/docs/media/proof-demo.gif",
+  "alt": "A real run of the proof page: every \"verify it yourself\" command passing",
+  "score": 4.25,
+  "type": "image/gif",
+  "bytes": 29489,
+  "file": "event4u-app__agent-config.gif",
+  "still": "event4u-app__agent-config.jpg"
  },
  "rootstudioyaml/sprag": {
   "repo": "rootstudioyaml/sprag",
