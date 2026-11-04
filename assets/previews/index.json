@@ -59,6 +59,16 @@
   "file": "event4u-app__agent-config.gif",
   "still": "event4u-app__agent-config.jpg"
  },
+ "karlkfi/claude-bouncer": {
+  "repo": "karlkfi/claude-bouncer",
+  "url": "https://raw.githubusercontent.com/karlkfi/claude-bouncer/HEAD/docs/img/social-preview.png",
+  "alt": "claude-bouncer: five PreToolUse guards for Claude Code, one marketplace",
+  "score": 1.85,
+  "type": "image/png",
+  "bytes": 100106,
+  "file": "karlkfi__claude-bouncer.jpg",
+  "still": "karlkfi__claude-bouncer.jpg"
+ },
  "rootstudioyaml/sprag": {
   "repo": "rootstudioyaml/sprag",
   "url": "https://raw.githubusercontent.com/rootstudioyaml/sprag/main/docs/sprag-compare-en.gif",
