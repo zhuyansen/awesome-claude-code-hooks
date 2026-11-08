@@ -29,6 +29,16 @@
   "file": "Moviw__codex-statusline.gif",
   "still": "Moviw__codex-statusline.jpg"
  },
+ "Spobi/context-carwash": {
+  "repo": "Spobi/context-carwash",
+  "url": "https://raw.githubusercontent.com/Spobi/context-carwash/HEAD/docs/demo.gif",
+  "alt": "The meter fills up, /wash writes a short brief, and after /clear a fresh session",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 222471,
+  "file": "Spobi__context-carwash.gif",
+  "still": "Spobi__context-carwash.jpg"
+ },
  "aunysillyme/lean-browser-use": {
   "repo": "aunysillyme/lean-browser-use",
   "url": "https://raw.githubusercontent.com/aunysillyme/lean-browser-use/HEAD/docs/trailer.gif",

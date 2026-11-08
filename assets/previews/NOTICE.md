@@ -14,3 +14,4 @@ authors and stay under the license of the project they come from. To have one re
 | `karlkfi__claude-bouncer.jpg` | [karlkfi/claude-bouncer](https://github.com/karlkfi/claude-bouncer) | MIT | [source](https://raw.githubusercontent.com/karlkfi/claude-bouncer/HEAD/docs/img/social-preview.png) |
 | `Moviw__codex-statusline.gif` | [Moviw/codex-statusline](https://github.com/Moviw/codex-statusline) | MIT | [source](https://raw.githubusercontent.com/Moviw/codex-statusline/HEAD/docs/demo.gif) |
 | `rootstudioyaml__sprag.gif` | [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) | Apache-2.0 | [source](https://raw.githubusercontent.com/rootstudioyaml/sprag/main/docs/sprag-compare-en.gif) |
+| `Spobi__context-carwash.gif` | [Spobi/context-carwash](https://github.com/Spobi/context-carwash) | MIT | [source](https://raw.githubusercontent.com/Spobi/context-carwash/HEAD/docs/demo.gif) |
