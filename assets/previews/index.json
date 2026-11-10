@@ -29,6 +29,16 @@
   "file": "Moviw__codex-statusline.gif",
   "still": "Moviw__codex-statusline.jpg"
  },
+ "SanderMuller/claude-statusline": {
+  "repo": "SanderMuller/claude-statusline",
+  "url": "https://raw.githubusercontent.com/SanderMuller/claude-statusline/HEAD/screenshot.png",
+  "alt": "claude-statusline screenshot",
+  "score": -2.65,
+  "type": "image/png",
+  "bytes": 40788,
+  "file": "SanderMuller__claude-statusline.jpg",
+  "still": "SanderMuller__claude-statusline.jpg"
+ },
  "Spobi/context-carwash": {
   "repo": "Spobi/context-carwash",
   "url": "https://raw.githubusercontent.com/Spobi/context-carwash/HEAD/docs/demo.gif",
@@ -78,6 +88,16 @@
   "bytes": 100106,
   "file": "karlkfi__claude-bouncer.jpg",
   "still": "karlkfi__claude-bouncer.jpg"
+ },
+ "me2resh/apexyard": {
+  "repo": "me2resh/apexyard",
+  "url": "https://github.com/AbdElrahmaN31.png?size=100",
+  "alt": "AbdElrahmaN31",
+  "score": -0.55,
+  "type": "image/png",
+  "bytes": 12433,
+  "file": "me2resh__apexyard.jpg",
+  "still": "me2resh__apexyard.jpg"
  },
  "rootstudioyaml/sprag": {
   "repo": "rootstudioyaml/sprag",
