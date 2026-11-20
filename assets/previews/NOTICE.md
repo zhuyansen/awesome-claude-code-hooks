@@ -17,3 +17,4 @@ authors and stay under the license of the project they come from. To have one re
 | `rootstudioyaml__sprag.gif` | [rootstudioyaml/sprag](https://github.com/rootstudioyaml/sprag) | Apache-2.0 | [source](https://raw.githubusercontent.com/rootstudioyaml/sprag/main/docs/sprag-compare-en.gif) |
 | `SanderMuller__claude-statusline.jpg` | [SanderMuller/claude-statusline](https://github.com/SanderMuller/claude-statusline) | MIT | [source](https://raw.githubusercontent.com/SanderMuller/claude-statusline/HEAD/screenshot.png) |
 | `Spobi__context-carwash.gif` | [Spobi/context-carwash](https://github.com/Spobi/context-carwash) | MIT | [source](https://raw.githubusercontent.com/Spobi/context-carwash/HEAD/docs/demo.gif) |
+| `thingineeer__claude-cat.gif` | [thingineeer/claude-cat](https://github.com/thingineeer/claude-cat) | MIT | [source](https://raw.githubusercontent.com/thingineeer/claude-cat/HEAD/assets/screenshots/configure-wizard.gif) |

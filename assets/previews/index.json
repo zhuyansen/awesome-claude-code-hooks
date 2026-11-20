@@ -108,5 +108,15 @@
   "bytes": 1769642,
   "file": "rootstudioyaml__sprag.gif",
   "still": "rootstudioyaml__sprag.jpg"
+ },
+ "thingineeer/claude-cat": {
+  "repo": "thingineeer/claude-cat",
+  "url": "https://raw.githubusercontent.com/thingineeer/claude-cat/HEAD/assets/screenshots/configure-wizard.gif",
+  "alt": "configure wizard demo",
+  "score": 4.55,
+  "type": "image/gif",
+  "bytes": 193719,
+  "file": "thingineeer__claude-cat.gif",
+  "still": "thingineeer__claude-cat.jpg"
  }
 }
