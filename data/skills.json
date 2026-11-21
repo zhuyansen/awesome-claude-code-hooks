@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20",
+ "generated": "2026-11-21",
  "source": "https://agentskillshub.top/best/claude-code-hooks/",
  "kinds": [
   {
@@ -47,7 +47,7 @@
   {
    "repo_full_name": "severity1/claude-code-prompt-improver",
    "path": null,
-   "stars": 1973,
+   "stars": 1974,
    "description": "Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.",
    "kind": "hooks",
    "security_grade": "safe",
@@ -57,7 +57,7 @@
   {
    "repo_full_name": "karanb192/claude-code-hooks",
    "path": null,
-   "stars": 587,
+   "stars": 586,
    "description": "🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.",
    "kind": "hooks",
    "security_grade": "safe",
@@ -117,7 +117,7 @@
   {
    "repo_full_name": "nesaminua/claude-code-lsp-enforcement-kit",
    "path": null,
-   "stars": 339,
+   "stars": 344,
    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens",
    "kind": "hooks",
    "security_grade": "safe",
@@ -157,7 +157,7 @@
   {
    "repo_full_name": "cso1z/claude-ip-guard",
    "path": null,
-   "stars": 244,
+   "stars": 245,
    "description": "A Claude Code hook plugin for IP-based access control · 防 Claude 封号 · Claude IP 检测 · IP 地理位置拦截 · Claude 账号保护",
    "kind": "hooks",
    "security_grade": "safe",
@@ -547,7 +547,7 @@
   {
    "repo_full_name": "VoltAgent/awesome-claude-code-subagents",
    "path": null,
-   "stars": 26694,
+   "stars": 26715,
    "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "kind": "subagents",
    "security_grade": "safe",
@@ -697,7 +697,7 @@
   {
    "repo_full_name": "jarrodwatts/claude-hud",
    "path": null,
-   "stars": 29274,
+   "stars": 29279,
    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
    "kind": "statusline",
    "security_grade": "safe",
@@ -707,7 +707,7 @@
   {
    "repo_full_name": "sirmalloc/ccstatusline",
    "path": null,
-   "stars": 13649,
+   "stars": 13654,
    "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
    "kind": "statusline",
    "security_grade": "safe",
@@ -777,7 +777,7 @@
   {
    "repo_full_name": "Nanako0129/coralline",
    "path": null,
-   "stars": 555,
+   "stars": 556,
    "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
    "kind": "statusline",
    "security_grade": "safe",
@@ -1727,7 +1727,7 @@
   {
    "repo_full_name": "WorldFlowAI/everything-claude-code",
    "path": null,
-   "stars": 6691,
+   "stars": 6722,
    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
    "kind": "collection",
    "security_grade": "safe",
@@ -1737,7 +1737,7 @@
   {
    "repo_full_name": "parcadei/Continuous-Claude-v3",
    "path": null,
-   "stars": 3952,
+   "stars": 3951,
    "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1747,7 +1747,7 @@
   {
    "repo_full_name": "0xSteph/pentest-ai-agents",
    "path": null,
-   "stars": 2471,
+   "stars": 2477,
    "description": "Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1777,7 +1777,7 @@
   {
    "repo_full_name": "ruvnet/agentic-flow",
    "path": null,
-   "stars": 849,
+   "stars": 850,
    "description": "Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud.",
    "kind": "collection",
    "security_grade": "safe",
@@ -1957,7 +1957,7 @@
   {
    "repo_full_name": "ChanMeng666/claude-code-audio-hooks",
    "path": null,
-   "stars": 90,
+   "stars": 91,
    "description": "【Every star you give feeds a hungry developer's motivation!⭐️】 🔊 echook — AI-operated audio notifications for Claude Code, Cursor IDE & Codex CLI — 39 hook events, voice + chime themes, TTS, webhooks, rate-limit alerts, a status line that follows the subagent you are viewing. Tell your AI agent to install — natural language forever after.",
    "kind": "collection",
    "security_grade": "safe",
@@ -2017,7 +2017,7 @@
   {
    "repo_full_name": "tintinweb/pi-subagents",
    "path": null,
-   "stars": 1486,
+   "stars": 1490,
    "description": "Claude Code like Sub-Agents & Workflow Orchestration for Pi — parallel execution, live widget, fleet view, custom agent types, mid-run steering, claude compatible dynamic workflows and more ...",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2067,7 +2067,7 @@
   {
    "repo_full_name": "gugug168/cute-claude-hooks",
    "path": null,
-   "stars": 204,
+   "stars": 203,
    "description": "🌸 Claude Code 界面汉化工具 + 实用 Hooks 集合",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2197,7 +2197,7 @@
   {
    "repo_full_name": "sathish316/pied-piper",
    "path": null,
-   "stars": 81,
+   "stars": 82,
    "description": "Pied Piper is a team of AI SubAgents that can autonomously/semi-autonomously work on long-running or complex coding tasks with full End-to-end tracking and human-in-the-loop approvals. Subagents can run on Claude Code, Coding CLIs that support SubAgents, Docker, Cloud Desktop etc.",
    "kind": "tooling",
    "security_grade": "safe",
@@ -2265,20 +2265,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "JochenYang/minimax-status",
+   "repo_full_name": "Spobi/context-carwash",
    "path": null,
-   "stars": 33,
-   "description": "MiniMax token-plan 定制状态栏，显示 token-plan 使用额度、剩余次数、重置时间，支持vscode 底部状态栏显示、openclaw查询、claude code statusline",
+   "stars": 34,
+   "description": "Context Carwash:  ⟡ see your full session context size at all times ⟡ /clear with no worries about loosing context or adding to your file bloat ⟡ specify the exact context you want saved for the next session",
    "kind": "tooling",
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
   {
-   "repo_full_name": "Spobi/context-carwash",
+   "repo_full_name": "JochenYang/minimax-status",
    "path": null,
    "stars": 33,
-   "description": "Context Carwash:  ⟡ see your full session context size at all times ⟡ /clear with no worries about loosing context or adding to your file bloat ⟡ specify the exact context you want saved for the next session",
+   "description": "MiniMax token-plan 定制状态栏，显示 token-plan 使用额度、剩余次数、重置时间，支持vscode 底部状态栏显示、openclaw查询、claude code statusline",
    "kind": "tooling",
    "security_grade": "safe",
    "language": "JavaScript",
