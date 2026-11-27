@@ -89,17 +89,17 @@
 |---|---:|---|---|
 | [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | 4.0k | 掌握 Claude Code Hooks | [SAFE](https://agentskillshub.top/skill/disler/claude-code-hooks-mastery/) |
 | [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver) | 2.0k | Claude Code 的提示词优化 hook | [SAFE](https://agentskillshub.top/skill/severity1/claude-code-prompt-improver/) |
-| [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) | 588 | Claude Code hooks 与可安装插件市场：安全、成本、可观测性与生产力。 | [SAFE](https://agentskillshub.top/skill/karanb192/claude-code-hooks/) |
+| [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) | 589 | Claude Code hooks 与可安装插件市场：安全、成本、可观测性与生产力。 | [SAFE](https://agentskillshub.top/skill/karanb192/claude-code-hooks/) |
 | [shanraisshan/claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) | 575 | Claude Code hooks——为每个 hook 添加语音 | [SAFE](https://agentskillshub.top/skill/shanraisshan/claude-code-hooks/) |
 | [IyadhKhalfallah/clauditor](https://github.com/IyadhKhalfallah/clauditor) | 430 | 防止 Claude Code 在20分钟内耗尽配额，自动轮换过大​​会话并保留上下文。 | [SAFE](https://agentskillshub.top/skill/IyadhKhalfallah/clauditor/) |
-| [zxdxjtu/claudecode-rule2hook](https://github.com/zxdxjtu/claudecode-rule2hook) | 401 | 将自然语言项目规则转为 Claude Code 自动化 hooks，用于格式化、测试和验证等 | [SAFE](https://agentskillshub.top/skill/zxdxjtu/claudecode-rule2hook/) |
+| [zxdxjtu/claudecode-rule2hook](https://github.com/zxdxjtu/claudecode-rule2hook) | 400 | 将自然语言项目规则转为 Claude Code 自动化 hooks，用于格式化、测试和验证等 | [SAFE](https://agentskillshub.top/skill/zxdxjtu/claudecode-rule2hook/) |
 | [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks) | 398 | 基于 TypeScript 的 Claude Code hook 系统，支持类型安全和自动补全 | [SAFE](https://agentskillshub.top/skill/johnlindquist/claude-hooks/) |
 | [alexfazio/plankton](https://github.com/alexfazio/plankton) | 380 | Claude Code 写入时质量检查：每次编辑自动格式化和检查，由专用 Claude 实例智能修复剩余问题 | [SAFE](https://agentskillshub.top/skill/alexfazio/plankton/) |
 | [nesaminua/claude-code-lsp-enforcement-kit](https://github.com/nesaminua/claude-code-lsp-enforcement-kit) | 346 | Hooks 强制 Claude Code 使用 LSP 而非 Grep 导航代码，节省约80% token | [SAFE](https://agentskillshub.top/skill/nesaminua/claude-code-lsp-enforcement-kit/) |
 | [win4r/claude-code-hooks](https://github.com/win4r/claude-code-hooks) | 335 | Claude Code Stop Hook：任务完成后写入 JSON、发送聊天软件通知并生成 pending-wake 文件供 AGI 读取 | [SAFE](https://agentskillshub.top/skill/win4r/claude-code-hooks/) |
 | [bobek-balinek/claude-lamp](https://github.com/bobek-balinek/claude-lamp) | 296 | Claude hooks 与 Moonside 灯具集成 | [SAFE](https://agentskillshub.top/skill/bobek-balinek/claude-lamp/) |
-| [lasso-security/claude-hooks](https://github.com/lasso-security/claude-hooks) | 274 | Lasso 为 Claude Code 提供安全集成，包括提示注入防护 | [CAUTION](https://agentskillshub.top/skill/lasso-security/claude-hooks/) |
-| [minorun365/claude-code-japanese-guard](https://github.com/minorun365/claude-code-japanese-guard) | 256 | Claude Code 的响应切换为英语时，要求其用日语重写的 Stop hook | [SAFE](https://agentskillshub.top/skill/minorun365/claude-code-japanese-guard/) |
+| [lasso-security/claude-hooks](https://github.com/lasso-security/claude-hooks) | 273 | Lasso 为 Claude Code 提供安全集成，包括提示注入防护 | [CAUTION](https://agentskillshub.top/skill/lasso-security/claude-hooks/) |
+| [minorun365/claude-code-japanese-guard](https://github.com/minorun365/claude-code-japanese-guard) | 265 | Claude Code 的响应切换为英语时，要求其用日语重写的 Stop hook | [SAFE](https://agentskillshub.top/skill/minorun365/claude-code-japanese-guard/) |
 | [cso1z/claude-ip-guard](https://github.com/cso1z/claude-ip-guard) | 247 | Claude Code hook 插件：基于 IP 的访问控制、IP 检测和地理位置拦截 | [SAFE](https://agentskillshub.top/skill/cso1z/claude-ip-guard/) |
 | [ldayton/Dippy](https://github.com/ldayton/Dippy) | 244 | 减少权限确认，保持推进。Dippy 判断哪些操作可安全运行，并在计划变化时让 Claude 保持方向。 | [SAFE](https://agentskillshub.top/skill/ldayton/Dippy/) |
 | [BotchetDig/workout-gate](https://github.com/BotchetDig/workout-gate) | 222 | Claude Code hook：完成摄像头实时计数的俯卧撑后解除 prompt 阻塞，支持随机次数、会话持久欠额、连续统计和三种触发模式。 | [SAFE](https://agentskillshub.top/skill/BotchetDig/workout-gate/) |
@@ -125,7 +125,7 @@
 | [yeisonrestrepo/code-conductor](https://github.com/yeisonrestrepo/code-conductor) | 22 | Claude Code 会话治理层：执行前检查 agent 命令、先写规范的流程和项目记忆。 | [SAFE](https://agentskillshub.top/skill/yeisonrestrepo/code-conductor/) |
 | [kylesnowschwartz/prompt-intercept-pattern](https://github.com/kylesnowschwartz/prompt-intercept-pattern) | 20 | Claude Code 插件模式：通过 hook 拦截命令，无需 API 调用即可运行代码 | [SAFE](https://agentskillshub.top/skill/kylesnowschwartz/prompt-intercept-pattern/) |
 | [sathwick-p/claude-rename](https://github.com/sathwick-p/claude-rename) | 16 | 使用 AI 为 Claude Code 会话自动生成描述性标题，无需配置或 API 密钥。 | [SAFE](https://agentskillshub.top/skill/sathwick-p/claude-rename/) |
-| [karlkfi/claude-bouncer](https://github.com/karlkfi/claude-bouncer) | 13 | Claude Code 防护栏：工作区边界、受保护分支、生产目标、退出状态丢失和前台运行时长。 | [SAFE](https://agentskillshub.top/skill/karlkfi/claude-bouncer/) |
+| [karlkfi/claude-bouncer](https://github.com/karlkfi/claude-bouncer) | 14 | Claude Code 防护栏：工作区边界、受保护分支、生产目标、退出状态丢失和前台运行时长。 | [SAFE](https://agentskillshub.top/skill/karlkfi/claude-bouncer/) |
 | [shuntaka9576/blocc](https://github.com/shuntaka9576/blocc) | 13 | 执行多个命令，失败时通过 stderr 返回 exit 2 阻止 Claude Code Hooks 🛡️ | [SAFE](https://agentskillshub.top/skill/shuntaka9576/blocc/) |
 | [renefichtmueller/claude-code-hardened](https://github.com/renefichtmueller/claude-code-hardened) | 11 | 防止 AI 将机密推送到 GitHub。为 Claude Code 提供安全 hooks、规则和实时验证器。5 个 hooks、6 条规则、1 个安装脚本、零… | [SAFE](https://agentskillshub.top/skill/renefichtmueller/claude-code-hardened/) |
 | [eliColussi/obsidian-ai-vault-kit](https://github.com/eliColussi/obsidian-ai-vault-kit) | 9 | 将任意文件夹变成可自动记录的 Obsidian vault。Claude Code hooks 自动将每个提示、回答和文件编辑记录到 Daily note。一… | [SAFE](https://agentskillshub.top/skill/eliColussi/obsidian-ai-vault-kit/) |
@@ -155,8 +155,8 @@
 | [NEWBIE0413/gemini-gpt-hybrid](https://github.com/NEWBIE0413/gemini-gpt-hybrid) | 153 | Claude Code 的多模型编排子代理：按任务范围分派给 Gemini 的 1M token 上下文或 GPT 的快速迭代，再由 Claude 审查所有结… | [SAFE](https://agentskillshub.top/skill/NEWBIE0413/gemini-gpt-hybrid/) |
 | [undeadlist/claude-code-agents](https://github.com/undeadlist/claude-code-agents) | 149 | Claude Code Agents：Claude Code 子代理系统的 Prompt 模板，支持并行代码审查、自动修复和复审，适用于 Task 工具；不是… | [SAFE](https://agentskillshub.top/skill/undeadlist/claude-code-agents/) |
 | [rubenzantingh/claude-code-magento-agents](https://github.com/rubenzantingh/claude-code-magento-agents) | 124 | 用于 Magento (2) 开发的 Claude Code 子代理集合。 | [SAFE](https://agentskillshub.top/skill/rubenzantingh/claude-code-magento-agents/) |
+| [alirezarezvani/claude-cto-team](https://github.com/alirezarezvani/claude-cto-team) | 123 | 你的 Claude Code 个人 CTO 团队，帮助你在规划和执行时自我挑战。 | [SAFE](https://agentskillshub.top/skill/alirezarezvani/claude-cto-team/) |
 | [mischasigtermans/laravel-altitude](https://github.com/mischasigtermans/laravel-altitude) | 123 | 基于 Laravel Boost 的 TALL 技术栈 Claude Code agents。 | [SAFE](https://agentskillshub.top/skill/mischasigtermans/laravel-altitude/) |
-| [alirezarezvani/claude-cto-team](https://github.com/alirezarezvani/claude-cto-team) | 122 | 你的 Claude Code 个人 CTO 团队，帮助你在规划和执行时自我挑战。 | [SAFE](https://agentskillshub.top/skill/alirezarezvani/claude-cto-team/) |
 | [davila7/claude_subagents](https://github.com/davila7/claude_subagents) | 117 | Claude SubAgents | [SAFE](https://agentskillshub.top/skill/davila7/claude_subagents/) |
 | [augmnt/agents](https://github.com/augmnt/agents) | 74 | 面向软件开发流程的24+个专业Claude Code子代理集合。 | [SAFE](https://agentskillshub.top/skill/augmnt/agents/) |
 | [askjohngeorge/askjg-claude-agents](https://github.com/askjohngeorge/askjg-claude-agents) | 55 | 我在 AI 辅助开发流程中使用的 Claude 子代理和自定义命令示例 | [SAFE](https://agentskillshub.top/skill/askjohngeorge/askjg-claude-agents/) |
@@ -178,14 +178,14 @@
 | [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 13.7k | Claude Code CLI 的可高度定制状态栏，支持 Powerline 和主题等功能。 | [SAFE](https://agentskillshub.top/skill/sirmalloc/ccstatusline/) |
 | [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) | 3.6k | 用 Rust 编写的 Claude Code 状态栏工具 | [SAFE](https://agentskillshub.top/skill/Haleclipse/CCometixLine/) |
 | [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) | 1.2k | Claude Code 的 vim 风格 powerline | [SAFE](https://agentskillshub.top/skill/Owloops/claude-powerline/) |
-| [GaoSSR/best-claude-hud](https://github.com/GaoSSR/best-claude-hud) | 996 | Rust 驱动的极简 Claude Code 状态栏 HUD | [SAFE](https://agentskillshub.top/skill/GaoSSR/best-claude-hud/) |
-| [chongdashu/cc-statusline](https://github.com/chongdashu/cc-statusline) | 646 | 用美观且信息丰富的状态栏改善 Claude Code 使用体验 | [SAFE](https://agentskillshub.top/skill/chongdashu/cc-statusline/) |
+| [GaoSSR/best-claude-hud](https://github.com/GaoSSR/best-claude-hud) | 994 | Rust 驱动的极简 Claude Code 状态栏 HUD | [SAFE](https://agentskillshub.top/skill/GaoSSR/best-claude-hud/) |
+| [chongdashu/cc-statusline](https://github.com/chongdashu/cc-statusline) | 647 | 用美观且信息丰富的状态栏改善 Claude Code 使用体验 | [SAFE](https://agentskillshub.top/skill/chongdashu/cc-statusline/) |
 | [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) | 623 | Claude Code 的自定义状态栏，实时显示模型、令牌、速率限制和 Git 信息 | [SAFE](https://agentskillshub.top/skill/daniel3303/ClaudeCodeStatusLine/) |
 | [uppinote20/claude-dashboard](https://github.com/uppinote20/claude-dashboard) | 593 | Claude Code 状态栏插件，显示上下文用量、API 速率限制和成本 | [SAFE](https://agentskillshub.top/skill/uppinote20/claude-dashboard/) |
 | [Nanako0129/coralline](https://github.com/Nanako0129/coralline) | 557 | 受 Powerlevel10k 启发的 Claude Code 状态栏——粘贴提示词，AI 会先询问你，然后完成安装 | [SAFE](https://agentskillshub.top/skill/Nanako0129/coralline/) |
 | [rz1989s/claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) | 480 | 用原子级精度状态栏改造 Claude Code 终端，支持灵活布局、实时成本追踪、MCP 监控、礼拜时间和主题。 | [SAFE](https://agentskillshub.top/skill/rz1989s/claude-code-statusline/) |
 | [stephenleo/cship](https://github.com/stephenleo/cship) | 435 | Claude Code 的可定制状态栏：支持 Starship 风格 TOML 配置、主题颜色、Nerd Font 字形及可调费用、上下文和用量阈值。 | [SAFE](https://agentskillshub.top/skill/stephenleo/cship/) |
-| [leeguooooo/claude-code-usage-bar](https://github.com/leeguooooo/claude-code-usage-bar) | 395 | Claude Code 状态行：5h/7d 速率限制用量、重置倒计时、模型与上下文窗口、提示缓存时长；单行，3种样式×9种主题，daemon fast-mode | [SAFE](https://agentskillshub.top/skill/leeguooooo/claude-code-usage-bar/) |
+| [leeguooooo/claude-code-usage-bar](https://github.com/leeguooooo/claude-code-usage-bar) | 396 | Claude Code 状态行：5h/7d 速率限制用量、重置倒计时、模型与上下文窗口、提示缓存时长；单行，3种样式×9种主题，daemon fast-mode | [SAFE](https://agentskillshub.top/skill/leeguooooo/claude-code-usage-bar/) |
 | [NYCU-Chung/cc-statusline](https://github.com/NYCU-Chung/cc-statusline) | 264 | Claude Code 状态栏仪表盘，显示会话信息、配额条、agent 跟踪、MCP 健康状态、消息历史等。 | [SAFE](https://agentskillshub.top/skill/NYCU-Chung/cc-statusline/) |
 | [Astro-Han/claude-pace](https://github.com/Astro-Han/claude-pace) | 247 | Claude Code 状态栏和速率限制跟踪器，支持按节奏监控配额。纯 Bash + jq，单文件。 | [SAFE](https://agentskillshub.top/skill/Astro-Han/claude-pace/) |
 | [Wangnov/claude-code-statusline-pro](https://github.com/Wangnov/claude-code-statusline-pro) | 240 | Claude Code 状态栏 | [SAFE](https://agentskillshub.top/skill/Wangnov/claude-code-statusline-pro/) |
@@ -203,7 +203,7 @@
 | [loadbalance-sudachi-kun/claude-code-statusline](https://github.com/loadbalance-sudachi-kun/claude-code-statusline) | 56 | Claude Code 状态栏，显示速率限制 | [SAFE](https://agentskillshub.top/skill/loadbalance-sudachi-kun/claude-code-statusline/) |
 | [vfmatzkin/claude-statusline](https://github.com/vfmatzkin/claude-statusline) | 56 | 将 Claude Code 的 statusline JSON 格式化为状态栏，显示模型、Git 分支、上下文占用、限额和会话成本等信息。 | [SAFE](https://agentskillshub.top/skill/vfmatzkin/claude-statusline/) |
 | [fredrikaverpil/claudeline](https://github.com/fredrikaverpil/claudeline) | 55 | 极简的 Go Claude Code 状态栏 | [SAFE](https://agentskillshub.top/skill/fredrikaverpil/claudeline/) |
-| [glauberlima/claude-code-statusline](https://github.com/glauberlima/claude-code-statusline) | 52 | Claude Code CLI 状态栏，显示 Git 状态、上下文用量、模型信息和费用 | [SAFE](https://agentskillshub.top/skill/glauberlima/claude-code-statusline/) |
+| [glauberlima/claude-code-statusline](https://github.com/glauberlima/claude-code-statusline) | 53 | Claude Code CLI 状态栏，显示 Git 状态、上下文用量、模型信息和费用 | [SAFE](https://agentskillshub.top/skill/glauberlima/claude-code-statusline/) |
 | [canack/claude-usage-line](https://github.com/canack/claude-usage-line) | 40 | Claude Code 自定义状态栏：速率限制、Git 分支、费用、差异统计 | [SAFE](https://agentskillshub.top/skill/canack/claude-usage-line/) |
 | [hagan/claudia-statusline](https://github.com/hagan/claudia-statusline) | 37 | Claude Code 的 Rust 状态栏：hook 压缩检测、SQLite 会话持久化，支持多控制台安全跟踪。 | [SAFE](https://agentskillshub.top/skill/hagan/claudia-statusline/) |
 | [mttmcknn/prism](https://github.com/mttmcknn/prism) | 35 | Claude Code 的快速、可自定义彩色状态栏。 | [SAFE](https://agentskillshub.top/skill/mttmcknn/prism/) |
@@ -294,7 +294,7 @@
 | [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) | 4.0k | Claude Code 的上下文管理。Hooks 通过 ledgers 和 handoffs 维护状态。MCP 执行不污染上下文。用隔离的上下文窗口编排 ag… | [SAFE](https://agentskillshub.top/skill/parcadei/Continuous-Claude-v3/) |
 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | 2.5k | 将 Claude Code 用作进攻性安全研究助手：AI 子代理可规划授权渗透测试、分析侦察、研究漏洞利用、构建检测、审计 STIG 并撰写报告。 | [SAFE](https://agentskillshub.top/skill/0xSteph/pentest-ai-agents/) |
 | [0xfurai/claude-code-subagents](https://github.com/0xfurai/claude-code-subagents) | 1.0k | Claude Code 的 100+ 个可用于生产的开发子代理集合 | [SAFE](https://agentskillshub.top/skill/0xfurai/claude-code-subagents/) |
-| [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 882 | Claude Code 的 oh-my-zsh：16agent、35命令、32skill、21安全钩子。v4.0：审查循环，二次agent不看首个推理。MIT。 | [SAFE](https://agentskillshub.top/skill/sangrokjung/claude-forge/) |
+| [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 886 | Claude Code 的 oh-my-zsh：16agent、35命令、32skill、21安全钩子。v4.0：审查循环，二次agent不看首个推理。MIT。 | [SAFE](https://agentskillshub.top/skill/sangrokjung/claude-forge/) |
 | [ruvnet/agentic-flow](https://github.com/ruvnet/agentic-flow) | 850 | 在 Claude Code/Agent SDK 中切换低成本 AI 模型，开发并部署托管 agent 到云端用于业务。 | [SAFE](https://agentskillshub.top/skill/ruvnet/agentic-flow/) |
 | [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) | 762 | Claude Code 的自定义命令、钩子和工具集 | [SAFE](https://agentskillshub.top/skill/carlrannaberg/claudekit/) |
 | [me2resh/apexyard](https://github.com/me2resh/apexyard) | 553 | 受治理的 AI 工程组织，安全地将智能体编写的代码交付到生产环境。 | [SAFE](https://agentskillshub.top/skill/me2resh/apexyard/) |
@@ -305,7 +305,7 @@
 | [dl-ezo/claude-code-sub-agents](https://github.com/dl-ezo/claude-code-sub-agents) | 187 | Claude Code 的 35 个专业 sub-agent，支持端到端软件开发自动化 | [SAFE](https://agentskillshub.top/skill/dl-ezo/claude-code-sub-agents/) |
 | [ayush-that/sub-agents.directory](https://github.com/ayush-that/sub-agents.directory) | 150 | Sub-Agents Directory：Claude Code 的 100+ 个子 agent 提示词和 MCP 服务器集合 | [SAFE](https://agentskillshub.top/skill/ayush-that/sub-agents.directory/) |
 | [Bande-a-Bonnot/Boucle-framework](https://github.com/Bande-a-Bonnot/Boucle-framework) | 126 | 具备结构化记忆、安全钩子和循环管理的自主 agent 框架。由运行于其上的 agent 构建。 | [SAFE](https://agentskillshub.top/skill/Bande-a-Bonnot/Boucle-framework/) |
-| [Aedelon/claude-code-blueprint](https://github.com/Aedelon/claude-code-blueprint) | 124 | 生产级 Claude Code 配置：skills、agents、hooks、rules 和 permissions 协同工作。 | [SAFE](https://agentskillshub.top/skill/Aedelon/claude-code-blueprint/) |
+| [Aedelon/claude-code-blueprint](https://github.com/Aedelon/claude-code-blueprint) | 125 | 生产级 Claude Code 配置：skills、agents、hooks、rules 和 permissions 协同工作。 | [SAFE](https://agentskillshub.top/skill/Aedelon/claude-code-blueprint/) |
 | [tmcfarlane/team-avatar](https://github.com/tmcfarlane/team-avatar) | 114 | Team Avatar: a universal agent orchestrator for Claude Code, Codex, and Cursor. Nine Avatar characters, 58 engineering skills. pstack with Avatar cha… | [SAFE](https://agentskillshub.top/skill/tmcfarlane/team-avatar/) |
 | [rshah515/claude-code-subagents](https://github.com/rshah515/claude-code-subagents) | 113 | Claude Code 的 133+ 个专用 AI 子 agent，覆盖整个软件开发生命周期 | [SAFE](https://agentskillshub.top/skill/rshah515/claude-code-subagents/) |
 | [solanabr/ai-kit](https://github.com/solanabr/ai-kit) | 113 | 面向 Solana 专家开发者的 Claude Code / Codex / AI 配置，涵盖 Web、Anchor、Pinnochio、Unity、Mobi… | [SAFE](https://agentskillshub.top/skill/solanabr/ai-kit/) |
@@ -358,7 +358,7 @@
 | [PsChina/deepseek-as-subagent](https://github.com/PsChina/deepseek-as-subagent) | 60 | 在 Claude Code / Codex CLI 中运行 DeepSeek 子 agent，拥有独立的 7 工具循环、工作区文件访问和受限 Bash。 | [SAFE](https://agentskillshub.top/skill/PsChina/deepseek-as-subagent/) |
 | [anhannin/codex-hud](https://github.com/anhannin/codex-hud) | 55 | Codex CLI 的 Claude-HUD 风格状态栏：一览模型、git 及 5h/7d 使用量。 | [SAFE](https://agentskillshub.top/skill/anhannin/codex-hud/) |
 | [CoderMageFox/claudecode-codex-subagents](https://github.com/CoderMageFox/claudecode-codex-subagents) | 50 | 用于编排复杂任务的 Claude Code 插件，可委派多个并行 Codex agent，再合并并审查结果。 | [SAFE](https://agentskillshub.top/skill/CoderMageFox/claudecode-codex-subagents/) |
-| [Spobi/context-carwash](https://github.com/Spobi/context-carwash) | 43 | Context Carwash：完整会话上下文大小可见；重新开始，不丢失细节且无文件夹杂物 | [SAFE](https://agentskillshub.top/skill/Spobi/context-carwash/) |
+| [Spobi/context-carwash](https://github.com/Spobi/context-carwash) | 44 | Context Carwash：完整会话上下文大小可见；重新开始，不丢失细节且无文件夹杂物 | [SAFE](https://agentskillshub.top/skill/Spobi/context-carwash/) |
 | [Carlos-Dominguez-faber/claude-code-tune-kit](https://github.com/Carlos-Dominguez-faber/claude-code-tune-kit) | 42 | Claude Code 配置：上下文信号灯、精简模式、4 个 hooks 阻止破坏性命令和机密、无冗余输出、GLM 不接管配置，以及审计安装并提示缺失项的 c… | [SAFE](https://agentskillshub.top/skill/Carlos-Dominguez-faber/claude-code-tune-kit/) |
 | [JochenYang/minimax-status](https://github.com/JochenYang/minimax-status) | 33 | MiniMax token-plan 状态栏，显示使用额度、剩余次数和重置时间，支持vscode、openclaw和claude code statusline | [SAFE](https://agentskillshub.top/skill/JochenYang/minimax-status/) |
 | [Evolutionairy-AI/MINDLAS](https://github.com/Evolutionairy-AI/MINDLAS) | 31 | Mindlas 在坏代码落地前发现 agent 偏离，实时纠正 Claude Code 会话中的上下文腐化、未验证完成声明、补丁蔓延和工具循环。 | [SAFE](https://agentskillshub.top/skill/Evolutionairy-AI/MINDLAS/) |
@@ -409,4 +409,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-26。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-27。
